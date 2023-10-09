@@ -1,14 +1,14 @@
 ﻿using System;
-
 namespace Assignment_03
 {
+
 	internal class Book
 	{
-		// pascal case  names for properties
+		// Pascal case names for properties
 		public string Title { get; set; }
 		public string Author { get; set; }
 
-		// Constructor (make it public)
+		// Constructor with optional author parameter
 		public Book(string title, string author = "Unknown")
 		{
 			Title = title;
@@ -18,7 +18,11 @@ namespace Assignment_03
 		// Display function (instance method)
 		public void Display()
 		{
-			Console.WriteLine("Title: " + Title + ", Author: " + Author);
+			
+		  Console.WriteLine("Title: " + Title + ", Author: " + (string.IsNullOrWhiteSpace(Author) ? "Unknown" : Author));
+			
+
 		}
 	}
+
 }

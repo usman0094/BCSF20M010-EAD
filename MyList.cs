@@ -1,12 +1,33 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Assignmnet_03
 {
-	internal class MyList
+	public class MyList<T>
 	{
+		private List<T> list;
+
+		public MyList()
+		{
+			list = new List<T>();
+		}
+
+		public void Add(T item)
+		{
+			list.Add(item);
+		}
+
+		public bool Remove(T item)
+		{
+			return list.Remove(item);
+		}
+
+		public void Display()
+		{
+			foreach (T item in list)
+			{
+				Console.WriteLine(item);
+			}
+		}
 	}
 }
