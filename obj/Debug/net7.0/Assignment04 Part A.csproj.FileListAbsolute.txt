@@ -1,0 +1,15 @@
+E:\BS CS F20\7th semester\EAD\EAD Assigmnets\Assignment04 Part A\bin\Debug\net7.0\Assignment04 Part A.exe
+E:\BS CS F20\7th semester\EAD\EAD Assigmnets\Assignment04 Part A\bin\Debug\net7.0\Assignment04 Part A.deps.json
+E:\BS CS F20\7th semester\EAD\EAD Assigmnets\Assignment04 Part A\bin\Debug\net7.0\Assignment04 Part A.runtimeconfig.json
+E:\BS CS F20\7th semester\EAD\EAD Assigmnets\Assignment04 Part A\bin\Debug\net7.0\Assignment04 Part A.dll
+E:\BS CS F20\7th semester\EAD\EAD Assigmnets\Assignment04 Part A\bin\Debug\net7.0\Assignment04 Part A.pdb
+E:\BS CS F20\7th semester\EAD\EAD Assigmnets\Assignment04 Part A\obj\Debug\net7.0\Assignment04 Part A.csproj.AssemblyReference.cache
+E:\BS CS F20\7th semester\EAD\EAD Assigmnets\Assignment04 Part A\obj\Debug\net7.0\Assignment04 Part A.GeneratedMSBuildEditorConfig.editorconfig
+E:\BS CS F20\7th semester\EAD\EAD Assigmnets\Assignment04 Part A\obj\Debug\net7.0\Assignment04 Part A.AssemblyInfoInputs.cache
+E:\BS CS F20\7th semester\EAD\EAD Assigmnets\Assignment04 Part A\obj\Debug\net7.0\Assignment04 Part A.AssemblyInfo.cs
+E:\BS CS F20\7th semester\EAD\EAD Assigmnets\Assignment04 Part A\obj\Debug\net7.0\Assignment04 Part A.csproj.CoreCompileInputs.cache
+E:\BS CS F20\7th semester\EAD\EAD Assigmnets\Assignment04 Part A\obj\Debug\net7.0\Assignment04 Part A.dll
+E:\BS CS F20\7th semester\EAD\EAD Assigmnets\Assignment04 Part A\obj\Debug\net7.0\refint\Assignment04 Part A.dll
+E:\BS CS F20\7th semester\EAD\EAD Assigmnets\Assignment04 Part A\obj\Debug\net7.0\Assignment04 Part A.pdb
+E:\BS CS F20\7th semester\EAD\EAD Assigmnets\Assignment04 Part A\obj\Debug\net7.0\Assignment04 Part A.genruntimeconfig.cache
+E:\BS CS F20\7th semester\EAD\EAD Assigmnets\Assignment04 Part A\obj\Debug\net7.0\ref\Assignment04 Part A.dll
